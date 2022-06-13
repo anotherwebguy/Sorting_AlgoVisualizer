@@ -159,3 +159,7 @@
   section #info_count2 h3 {
     text-decoration: underline;
   }
+
+  .hide {
+    display: none;
+  }
