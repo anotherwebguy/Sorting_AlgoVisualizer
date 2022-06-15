@@ -46,7 +46,8 @@
 
   nav .array-inputs #a_generate:hover {
       background-color:blueviolet;
-    cursor: pointer;
+      color: black;
+      cursor: pointer;
   }
 
   nav .header_right {
@@ -86,29 +87,34 @@
 
   nav .header_right .algos button:hover {
     background-color: blueviolet;
+    color: black;
     cursor: pointer;
   }
 
   nav .header_right .algos .butt_locked {
-    background-color: blue;
+    /* background-color: blueviolet; */
+    color: black;
     cursor: pointer;
   }
   
   nav .header_right .algos .butt_locked:hover {
-    background-color: blue;
+    /* background-color: blueviolet; */
+    color: black;
     cursor: pointer;
   }
 
   nav .header_right .algos .butt_unselected:hover {
-    background-color: blue;
+    /* background-color: blueviolet; */
+    color: black;
     cursor: pointer;
   }
 
   nav .header_right .algos .butt_selected {
-    background-color: blueviolet;
+    background-color: tomato;
   }
   
   nav .header_right .algos .butt_selected:hover {
+    /* background-color: tomato; */
     cursor: pointer;
   } 
 
