@@ -1,4 +1,4 @@
-
+// 
 
 var speed=1000;
 
@@ -26,6 +26,7 @@ function vis_speed()
 
 var delay_time=10000/(Math.floor(array_size/10)*speed);       
 var c_delay=0;
+
 
 function div_update(cont,height,color)
 {
